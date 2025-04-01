@@ -19,6 +19,6 @@ Nome 1 - João Pedro Godinho Passiani
 
 Nome 2 - Gabriel Droppa Molinari
 
-Nome 3 - Vitor Borsato
+Nome 3 - Vitor Silva Borsato
 
 Nome 4 - Ian Shoji Teharata
