@@ -12,3 +12,13 @@ CSS3: Estilização e responsividade
 JavaScript: Funcionalidades dinâmicas e interação do usuário
 
 FontAwesome: Ícones para melhor experiência visual
+
+Integrantes do Grupo
+
+Nome 1 - João Pedro Godinho Passiani
+
+Nome 2 - Gabriel Droppa Molinari
+
+Nome 3 - Vitor Borsato
+
+Nome 4 - Ian Shoji Teharata
